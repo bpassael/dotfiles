@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = perez.bas@gmail.com
+	name = Bastien Perez Assael
